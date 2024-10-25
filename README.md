@@ -15,7 +15,9 @@ O projeto consiste na composição de três páginas para a simulação de um ca
 
 ### Resultado do projeto 
 
-![Resultado final do projeto]()
+![Resultado final do projeto](img/comeco.png)
+![Resultado final do projeto](img/meio.png)
+![Resultado final do projeto](img/final.png)
 
 ### Estilização
 
@@ -66,6 +68,17 @@ Funções dos elementos utilizados no html:
 Veja uma imagem de parte do código, onde é possivel indentificar o uso dos elementos acima:
 
 ![Resultado final do projeto](img/estrura-html.png)
+
+Tudo que foi utilizado de outros trabalhos:
+
+A primeira parte foi uma pesquisa que fizemos para saber como era feito os cadastros de lojas virtuais e eu escolhi a Ri happy, Shein e Shopee. no trabalho from-contato foi usado o index e neste não foi diferente, usei o código DOCTYPE html e mudei algumas coisas já que o trabalho anterior era diferente.
+Depois foi usado o body e o div class que eu também já havia utilizado em outros trabalhos então essa parte foi praticamente copiar o outro, o mais dificil foi criar as tres páginas já que na outra atividade era apenas uma.
+Após isso foi usada a estilização que é igual do projeto form-login mas que foi mudado de maneira que combinasse melhor com o novo projeto.
+
+Para esta atividade fora utilizadas os projetos:
+
+* form-contato  - https://github.com/anakaroline760/projeto-login
+* form-login    - https://github.com/anakaroline760/form-contato 
 
 ## Tecnologias
 
