@@ -16,8 +16,8 @@ O projeto consiste na composição de três páginas para a simulação de um ca
 ### Resultado do projeto 
 
 ![Resultado final do projeto](img/comeco.png)
-![Resultado final do projeto](img/meio.png)
-![Resultado final do projeto](img/final.png)
+![](img/meio.png)
+![](img/final.png)
 
 ### Estilização
 
